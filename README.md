@@ -26,5 +26,6 @@ Here are some ideas to get you started:
   </a>
   <a href="https://leetcode.com/litgaurang22/">
     <img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
-  </a>
+  </a></br>
+  <img src="https://komarev.com/ghpvc/?username=gitgaurang&style=flat-square&color=blue" alt=""/>
 </div>
