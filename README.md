@@ -26,6 +26,11 @@ Here are some ideas to get you started:
   </a>
   <a href="https://leetcode.com/litgaurang22/">
     <img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
-  </a></br>
-  <img src="https://komarev.com/ghpvc/?username=gitgaurang&style=flat-square&color=blue" alt=""/>
+  </a>
+</br>
+  <img src="https://komarev.com/ghpvc/?username=gitgaurang&style=flat-square&color=blue" alt="image counter" />
+  <h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 </div>
