@@ -30,7 +30,21 @@ Here are some ideas to get you started:
 </br>
   <img src="https://komarev.com/ghpvc/?username=gitgaurang&style=flat-square&color=blue" alt="image counter" />
   <h1>
-  hey there
+  Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 </h1>
 </div>
+
+
+### :man_technologist: About Me :
+
+- :telescope: Working on full Stack Development.
+
+- :seedling: Exploring Blockchain Technology and Cryptocurrency.
+
+- 👯 I’m looking to collaborate on  Pyhton Automation based projects
+
+- :mailbox:How to reach me: gaurangraorane@gmail.com
