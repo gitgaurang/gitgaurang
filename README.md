@@ -31,6 +31,7 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=gitgaurang&style=flat-square&color=blue" alt="image counter" />
   <h1>
   Hey there!
+    
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -69,4 +70,6 @@ Here are some ideas to get you started:
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gitgaurang)](https://git.io/streak-stats)</br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitgaurang)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitgaurang)](https://github.com/anuraghazra/github-readme-stats)</br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitgaurang)](https://github.com/anuraghazra/github-readme-stats)
